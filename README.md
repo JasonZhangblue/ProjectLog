@@ -19,8 +19,9 @@
    [MFCC简单教程](http://www.practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/)  
    [python_speech_features官方使用文档](https://python-speech-features.readthedocs.io/en/latest/)   
    [使用Python_speech_features进行MFCC提取](https://www.jianshu.com/p/e32d2d5ccb0d)    
-   [MFCC的提取过程讲解]("https://blog.csdn.net/zouxy09/article/details/9156785")   
-   [动态时间规整]("https://www.cnblogs.com/zhizhan/p/4419066.html")    
+   [MFCC的提取过程讲解](https://blog.csdn.net/zouxy09/article/details/9156785)   
+   [动态时间规整](https://www.cnblogs.com/zhizhan/p/4419066.html)    
+   [MFCC和DTW的实现](https://blog.csdn.net/qq_31821675/article/details/80195315)  
    换行
 2. #### [基于HMM+DNN的方法]()
    [HMM的简单说明](http://www.practicalcryptography.com/miscellaneous/machine-learning/hidden-markov-model-hmm-tutorial/)
